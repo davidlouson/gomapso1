@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="gray-background">
         <img src={logo} alt="logo" />
-        <h2>New Gomapso Development by Daivd Son again 0213!</h2>
+        <h2>New Gomapso Development by Daivd Son last modification!</h2>
       </div>
     );
   }
